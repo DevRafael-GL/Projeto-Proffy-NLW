@@ -29,7 +29,7 @@
 .buttons-container {
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin: 3.2rem 0;
 }
 
 .buttons-container a {
@@ -72,7 +72,7 @@
 }
 
 .total-connections {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 
     display: flex;
     align-items: center;
